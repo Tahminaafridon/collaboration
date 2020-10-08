@@ -1,9 +1,9 @@
 # Collaboration work
 ** Project Description **:
 * in this project we will practice collaboration by tow prgramers in the same project.
-** Who would want to use it? **
+*Who would want to use it?*
 * the main viewers of this page would be students. 
-** Why would they want to use it?
+*Why would they want to use it?*
 * the purpose of the learners is to learn collaboration and working as a team in the same project.
 <--
 ## Step 0
@@ -17,8 +17,9 @@ Introduction of team members
 * create a repository
 * Write initial READEME
 * Turn on Github pages
-## Full user story description
 
+
+## Full user story description
 ### Step 1.0 
 #### @tahminaafridon 
 1. Create a new repo and clone it.
@@ -34,27 +35,27 @@ Introduction of team members
 1. review and merge pull request.
 
 ## Step 2 Fix the heading typo
-this task is assigned to @tahminaafridon
+**this task is assigned to @tahminaafridon**
 1. Clone the repo
 2. Raise new issue (fix spelling typo), add it to project board.
-3. create branch ** fix-typo-heading ** and switch to it.
+3. create branch *fix-typo-heading* and switch to it.
 4. Update file index.html with ideal changes.
 5. add modified file to staging area and commit it.
 6. Switch to master branch and pull down the remote master branch
-7. checkout to and push ** fix-typo-heading ** 
+7. checkout to and push *fix-typo-heading* 
 8. create a pull request and assign @tahminarasoli.
 9. @tahminarasoli switchs to master and pull the remote master.
 10. @tahminarasoli resolvs the conflict and merge the changes to master.
 
 ## Step 3 Update CSS class for heading 
-This task is assigned to @tahminarasoli
+**This task is assigned to @tahminarasoli**
 1. Clone the repo
 2. Raise new issue (update class heading), add it to project board.
-3. create branch ** update-class-heading ** and switch to it.
+3. create branch *update-class-heading* and switch to it.
 4. Update file index.html with ideal changes.
 5. add modified file to staging area and commit it.
 6. Switch to master branch and pull down the remote master branch
-7. checkout to and push ** update-class-heading ** 
+7. checkout to and push *update-class-heading* 
 8. create a pull request and assign @tahminaafridon.
 9. @tahminaafridon switchs to master and pull the remote master.
 10. @tahminaafridon resolvs the conflict and merge the changes to master.
